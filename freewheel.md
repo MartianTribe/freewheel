@@ -1,8 +1,8 @@
 # Freewheel Guide for Premium Long-Form Video
 
-As with DFP for digital ads, ad ops will need to configure their `Freewheel server account` so that the server can provide the correct creatives for the video player. If you do not have an account visit [[https://www.freewheel.tv]{.underline}](https://www.freewheel.tv) to create one.
+As with DFP for digital ads, ad ops will need to configure their `Freewheel server account` so that the server can provide the correct creatives for the video player. If you do not have an account visit [[https://www.freewheel.tv](https://www.freewheel.tv) to create one.
 
-Once your account is set up log in to the `Freewheel site`. 
+Once your account is set up log in to the [Freewheel site](https://mrm.freewheel.tv/system/account/login). 
 
 You will be presented with a dashboard area. Click on either the `Advertising button` in the top navigation bar or the `Campaign link` in the main body.
 
