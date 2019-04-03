@@ -1,6 +1,6 @@
 # Freewheel Guide for Premium Long-Form Video
 
-As with DFP for digital ads, ad ops will need to configure their `Freewheel server account` so that the server can provide the correct creatives for the video player. If you do not have an account visit [[https://www.freewheel.tv](https://www.freewheel.tv) to create one.
+As with DFP for digital ads, ad ops will need to configure their `Freewheel server account` so that the server can provide the correct creatives for the video player. If you do not have an account visit [https://www.freewheel.tv](https://www.freewheel.tv) to create one.
 
 Once your account is set up log in to the [Freewheel site](https://mrm.freewheel.tv/system/account/login). 
 
@@ -28,11 +28,11 @@ Click on the campaign name, which appears in the `Campaign column`. This will pr
 
 Click on the `Add New IO link`. This will present a pop over for adding a new `Insertion Order`. Enter the relevant information for the new `Insertion Order`. 
 
-Return to the `Campaign & IOs screen` and check the box in the first column of the row containing your IO. Click the `Load Placements button`. This will reload the screen with the details of the `Insertion Order` you selected and the `Placements` for that `Insertion Order`.
+Return to the `Campaign & IOs screen` and check the box in the first column of the row containing your `Insertion Order`. Click the `Load Placements button`. This will reload the screen with the details of the `Insertion Order` you selected and the `Placements` for that `Insertion Order`.
 
 ![](images/media/image5.png)
 
-If there are no `Placements` or you want to add a new one click on the `Add New Placement` link. You will be presented with a pop over where you can enter a name and description for the `Placement`. For `Prebid` to interact with `Freewheel's ad server` there is a strict `Placement` naming convention.
+If there are no `Placements` or you want to add one, click on the `Add New Placement` link. You will be presented with a pop over where you can enter a name and description for the `Placement`. For `Prebid` to interact with `Freewheel's ad server` there is a strict `Placement` naming convention.
 
 The `Freewheel module` within `Prebid` sends key-value targeting pairs to the `Freewheel SDK`, which then forwards them to the `Freewheel server`.
 
